@@ -1,0 +1,11 @@
+# CyberCat
+
+> CyberCat is an Australian cybersecurity awareness and digital wellbeing initiative that helps people recognise scams, social engineering, unsafe digital behaviour and human-factor cybersecurity risks.
+
+CyberCat uses characters, storytelling and practical behavioural techniques to make cybersecurity understandable and relevant to individuals, businesses and vulnerable communities.
+
+Official website: https://cybercat.au/
+
+## Key pages
+
+- [Home](https://cybercat.au/): Introduction to CyberCat and its cybersecurity awareness mission.
