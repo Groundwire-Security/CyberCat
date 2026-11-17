@@ -1,11 +1,34 @@
 # CyberCat
 
-> CyberCat is an Australian cybersecurity awareness and digital wellbeing initiative that helps people recognise scams, social engineering, unsafe digital behaviour and human-factor cybersecurity risks.
+> CyberCat is an Australian cybersecurity awareness and digital wellbeing initiative that helps people recognise scams, social engineering, unsafe digital behaviour and human-factor cybersecurity risks. CyberCat is a Groundwire Security initiative.
 
-CyberCat uses characters, storytelling and practical behavioural techniques to make cybersecurity understandable and relevant to individuals, businesses and vulnerable communities.
+CyberCat uses characters, storytelling and practical behavioural techniques to make cybersecurity understandable and relevant to individuals, businesses and vulnerable communities. It brings 90-second digital detox and wellness experiences to conferences, events, workplaces and venues worldwide, and runs hands-on digital skills and online safety workshops across Australia and the South Pacific.
 
 Official website: https://cybercat.au/
 
-## Key pages
+Key facts:
+- Mission: Protect the human in a digital world.
+- PAWS method: a habit for any moment of pressure, online or off: Pause, Assess, Walk away, Separately verify through a trusted person or channel. "The power is in the pause."
+- 90-Second Digital Wellness Reset: a short guided digital detox headphone experience. No VR headset or special technology needed.
+- Wellness Corner: a conference and event activation where delegates take the 90-second Digital Detox Wellness Reset. Think: a digital detox bar for your conference or expo. The Conference Activation is the larger, branded version.
+- Locations: Spring Hill, Queensland, Australia, and Nadi, Fiji. Wellness Corners and conference activations are available for events internationally.
+- Team: Sangeeta Devi (Cyber Safety Educator) and James Bourne (Cyber Security and Audit Advisor).
+- Digital Wellness Reset: usually around 90 seconds; participants only need headphones. Delivered at the CIDESCO World Congress in Nadi, Fiji (29–31 August 2026) and the OpenSSL Conference in Prague (13–15 October 2026).
+- Training topics: cybersecurity awareness, digital business skills, using AI in everyday business, digital systems and productivity. Plain English, no coding required, suited to mixed experience levels.
+- 2026 results: Pacific Women in Export Workshop, Tonga (International Trade Centre): about 50 participants from six Pacific countries; average feedback 4.64 out of 5, with 92% rating the session 4 or 5.
+- Contact: the enquiry form at the bottom of any page (https://cybercat.au/#contact-form)
+- Specialist cybersecurity assessments, compliance and risk services: Groundwire Security (https://groundwiresecurity.com/)
 
-- [Home](https://cybercat.au/): Introduction to CyberCat and its cybersecurity awareness mission.
+## Pages
+
+- [Why CyberCat](https://cybercat.au/): services, mission, online pressure tactics, the PAWS method, topics covered, audiences and FAQs
+- [Digital Wellness](https://cybercat.au/digital-experiences.html): the Digital Wellness Reset, Arrival Ritual, Focus Ritual, Workplace Reset, Wellness Corner and Conference Activation (event activations for conferences, exhibitions and trade shows), plus participant videos and a psychologist's perspective
+- [Workshops & Training](https://cybercat.au/capacity-building-training.html): cybersecurity awareness, digital business skills, using AI in everyday business, and digital systems and productivity workshops; Tonga case study
+- [2026 Events](https://cybercat.au/events.html): Pacific Women in Export Workshop in Tonga, OpenSSL Conference in Prague and CIDESCO World Congress in Fiji
+- [About Us](https://cybercat.au/about.html): the team, community outreach, media coverage and the wider security community
+
+## Optional
+
+- [Privacy Policy](https://cybercat.au/privacy.html)
+
+- [Sitemap](https://cybercat.au/sitemap.xml)

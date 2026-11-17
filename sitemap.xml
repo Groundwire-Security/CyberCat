@@ -1,10 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://cybercat.au/</loc>
-    <changefreq>weekly</changefreq>
+    <lastmod>2026-11-17</lastmod>
     <priority>1.0</priority>
+    <image:image><image:loc>https://cybercat.au/assets/img/cybercat-safe-choice-1200.webp</image:loc></image:image>
   </url>
-
+  <url>
+    <loc>https://cybercat.au/digital-experiences.html</loc>
+    <lastmod>2026-11-17</lastmod>
+    <priority>0.9</priority>
+    <image:image><image:loc>https://cybercat.au/assets/img/digital-wellness-reset-1200.webp</image:loc></image:image>
+    <image:image><image:loc>https://cybercat.au/assets/img/cidesco-reset-1200.webp</image:loc></image:image>
+    <image:image><image:loc>https://cybercat.au/assets/img/arrival-ritual-concept-1200.webp</image:loc></image:image>
+    <image:image><image:loc>https://cybercat.au/assets/img/focus-ritual-concept-1200.webp</image:loc></image:image>
+    <image:image><image:loc>https://cybercat.au/assets/img/workplace-ritual-concept-1200.webp</image:loc></image:image>
+    <image:image><image:loc>https://cybercat.au/assets/img/cidesco-team-1200.webp</image:loc></image:image>
+    <image:image><image:loc>https://cybercat.au/assets/img/IMG_7080-1200.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://cybercat.au/capacity-building-training.html</loc>
+    <lastmod>2026-11-17</lastmod>
+    <priority>0.9</priority>
+    <image:image><image:loc>https://cybercat.au/assets/img/tonga-group-1200.webp</image:loc></image:image>
+    <image:image><image:loc>https://cybercat.au/assets/img/tonga-workshop-1200.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://cybercat.au/events.html</loc>
+    <lastmod>2026-11-17</lastmod>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://cybercat.au/assets/img/tonga-workshop-1200.webp</image:loc></image:image>
+    <image:image><image:loc>https://cybercat.au/assets/img/openssl-presentation-1200.webp</image:loc></image:image>
+    <image:image><image:loc>https://cybercat.au/assets/img/cidesco-reset-1200.webp</image:loc></image:image>
+    <image:image><image:loc>https://cybercat.au/assets/img/tonga-group-1200.webp</image:loc></image:image>
+    <image:image><image:loc>https://cybercat.au/assets/img/tonga-presenter-1200.webp</image:loc></image:image>
+    <image:image><image:loc>https://cybercat.au/assets/img/tonga-team-1200.webp</image:loc></image:image>
+    <image:image><image:loc>https://cybercat.au/assets/img/IMG_7139-1200.webp</image:loc></image:image>
+    <image:image><image:loc>https://cybercat.au/assets/img/openssl-representatives-1200.webp</image:loc></image:image>
+    <image:image><image:loc>https://cybercat.au/assets/img/openssl-team-1200.webp</image:loc></image:image>
+    <image:image><image:loc>https://cybercat.au/assets/img/IMG_7049-1200.webp</image:loc></image:image>
+    <image:image><image:loc>https://cybercat.au/assets/img/IMG_7085-1200.webp</image:loc></image:image>
+    <image:image><image:loc>https://cybercat.au/assets/img/IMG_7080-1200.webp</image:loc></image:image>
+    <image:image><image:loc>https://cybercat.au/assets/img/IMG_7256-1200.webp</image:loc></image:image>
+    <image:image><image:loc>https://cybercat.au/assets/img/cidesco-launch-1200.webp</image:loc></image:image>
+    <image:image><image:loc>https://cybercat.au/assets/img/events-gallery-02-1200.webp</image:loc></image:image>
+    <image:image><image:loc>https://cybercat.au/assets/img/events-gallery-03-1200.webp</image:loc></image:image>
+    <image:image><image:loc>https://cybercat.au/assets/img/events-gallery-04-1152.webp</image:loc></image:image>
+    <image:image><image:loc>https://cybercat.au/assets/img/events-gallery-05-1152.webp</image:loc></image:image>
+    <image:image><image:loc>https://cybercat.au/assets/img/events-gallery-06-1200.webp</image:loc></image:image>
+    <image:image><image:loc>https://cybercat.au/assets/img/cidesco-team-1200.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://cybercat.au/about.html</loc>
+    <lastmod>2026-11-17</lastmod>
+    <priority>0.7</priority>
+    <image:image><image:loc>https://cybercat.au/assets/img/community-introducing-cybercat-1100.webp</image:loc></image:image>
+    <image:image><image:loc>https://cybercat.au/assets/img/community-paws-or-proceed-901.webp</image:loc></image:image>
+    <image:image><image:loc>https://cybercat.au/assets/img/community-facilitating-1100.webp</image:loc></image:image>
+    <image:image><image:loc>https://cybercat.au/assets/img/community-group-discussion-1100.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://cybercat.au/privacy.html</loc>
+    <lastmod>2026-11-17</lastmod>
+    <priority>0.3</priority>
+  </url>
 </urlset>
