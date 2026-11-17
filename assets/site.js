@@ -61,9 +61,32 @@
     if (window.innerWidth > 1180) setMenu(false);
   });
 
-  /* Return to this site's own thank-you page after an enquiry */
-  document.querySelectorAll('input[name="_next"]').forEach(function (input) {
-    input.value = new URL('thanks.html', document.baseURI).href;
+  /* Send enquiries to Formspree, then show this site's thank-you page */
+  document.querySelectorAll('form.enquiry-form').forEach(function (form) {
+    var status = document.createElement('p');
+    status.className = 'form-note form-status';
+    status.setAttribute('role', 'status');
+    status.setAttribute('aria-live', 'polite');
+    form.appendChild(status);
+    form.addEventListener('submit', function (e) {
+      if (!window.fetch || !window.FormData) return;
+      e.preventDefault();
+      var button = form.querySelector('button[type="submit"], input[type="submit"]');
+      if (button) button.disabled = true;
+      status.textContent = 'Sending your enquiry...';
+      fetch(form.action, { method: 'POST', body: new FormData(form), headers: { 'Accept': 'application/json' } })
+        .then(function (r) {
+          if (r.ok) { window.location.href = new URL('thanks.html', document.baseURI).href; return; }
+          return r.json().then(function (d) {
+            var msg = d && d.errors && d.errors.length ? d.errors.map(function (x) { return x.message; }).join(' ') : '';
+            throw new Error(msg);
+          });
+        })
+        .catch(function (err) {
+          if (button) button.disabled = false;
+          status.textContent = (err && err.message) ? err.message : 'Sorry, your enquiry could not be sent. Please try again in a moment.';
+        });
+    });
   });
 
   /* Home hero video and sound button */
