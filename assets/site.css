@@ -394,3 +394,10 @@ video::cue{font-size:var(--fs-body);line-height:1.35;background:rgba(28,18,48,.8
 .thanks-cat{width:100%;max-width:300px;height:auto;justify-self:end}
 @media (max-width:820px){.thanks-cat{max-width:220px;justify-self:start}}
 @media (min-width:641px){.stats-2{grid-template-columns:repeat(2,minmax(0,1fr))}}
+
+/* Enquiry: How we can help */
+.help-title{margin-top:28px;font-size:var(--fs-h3);color:var(--deep)}
+.help-list{list-style:none;margin:24px 0 0;padding:0;display:grid;gap:14px}
+.help-list li{position:relative;padding-left:22px;color:var(--muted);font-size:var(--fs-small)}
+.help-list li::before{content:"";position:absolute;left:0;top:.45em;width:10px;height:10px;border-radius:50%;background:var(--orange)}
+.help-list strong{display:block;color:var(--deep);font-size:var(--fs-body);margin-bottom:2px}
