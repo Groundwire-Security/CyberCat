@@ -15,16 +15,22 @@ Key facts:
 - Team: Sangeeta Devi (Cyber Safety Educator) and James Bourne (Cyber Security and Audit Advisor).
 - Digital Wellness Reset: usually around 90 seconds; participants only need headphones. Delivered at the CIDESCO World Congress in Nadi, Fiji (29–31 August 2026) and the OpenSSL Conference in Prague (13–15 October 2026).
 - Training topics: cybersecurity awareness, digital business skills, using AI in everyday business, digital systems and productivity. Plain English, no coding required, suited to mixed experience levels.
-- 2026 results: Pacific Women in Export Workshop, Tonga (International Trade Centre): about 50 participants from six Pacific countries; average feedback 4.64 out of 5, with 92% rating the session 4 or 5.
+- 2026 results: Pacific Women in Export Workshop, Tonga (International Trade Centre): about 50 participants from six Pacific countries.
 - Contact: the enquiry form at the bottom of any page (https://cybercat.au/#contact-form)
 - Specialist cybersecurity assessments, compliance and risk services: Groundwire Security (https://groundwiresecurity.com/)
 
 ## Pages
 
 - [Why CyberCat](https://cybercat.au/): services, mission, online pressure tactics, the PAWS method, topics covered, audiences and FAQs
-- [Digital Wellness](https://cybercat.au/digital-experiences.html): the Digital Wellness Reset, Arrival Ritual, Focus Ritual, Workplace Reset, Wellness Corner and Conference Activation (event activations for conferences, exhibitions and trade shows), plus participant videos and a psychologist's perspective
-- [Workshops & Training](https://cybercat.au/capacity-building-training.html): cybersecurity awareness, digital business skills, using AI in everyday business, and digital systems and productivity workshops; Tonga case study
+- [Digital Wellness](https://cybercat.au/digital-experiences.html): digital wellness event activations (the Wellness Corner and Conference Activation for conferences, expos and trade shows), plus the Workplace Reset, Arrival Ritual, Focus Ritual and Digital Wellness Reset, plus participant videos and expert views from a psychologist and a spa industry leader
+- [Workshops & Training](https://cybercat.au/capacity-building-training.html): digital capacity building and online safety workshops covering cybersecurity awareness, digital business skills, using AI in everyday business, and digital systems and productivity workshops; Tonga case study
 - [2026 Events](https://cybercat.au/events.html): Pacific Women in Export Workshop in Tonga, OpenSSL Conference in Prague and CIDESCO World Congress in Fiji
+- [Articles](https://cybercat.au/articles.html): articles on digital wellness, digital detox at events, online safety and digital capacity building
+- [Digital wellness event activations](https://cybercat.au/article-digital-wellness-event-activations.html): what a wellness activation is and how the 90-second digital detox Wellness Corner works at conferences and expos
+- [OpenSSL Prague 2026](https://cybercat.au/article-openssl-prague-human-side-of-security.html): CyberCat's Community Track session and Digital Wellness Reset at the OpenSSL Conference in Prague
+- [Digital capacity building in the South Pacific](https://cybercat.au/article-digital-capacity-building-south-pacific.html): practical digital skills and online safety workshops for Pacific businesses, exporters and women entrepreneurs
+- [South Pacific tech talent: OpenSSL Conference 2027](https://cybercat.au/article-openssl-conference-2027-south-pacific-talent.html): a call to Pacific students, researchers and open-source contributors to aim for the OpenSSL Conference in Prague in September 2027
+- [What CIDESCO Fiji taught us about the human side of digital safety](https://cybercat.au/article-cidesco-fiji-human-side-of-digital-safety.html): lessons from launching CyberCat at the CIDESCO Fiji Congress 2026, the PAWS method and the 90-second Digital Wellness Reset
 - [About Us](https://cybercat.au/about.html): the team, community outreach, media coverage and the wider security community
 
 ## Optional
